@@ -1,0 +1,15 @@
+{
+  "name": "journaling-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saleh abuhussein",
+  "license": "ISC",
+  "dependencies": {
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  }
+}
